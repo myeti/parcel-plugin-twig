@@ -8,13 +8,9 @@
     "twig": "^1.13.3"
   },
   "description": "Compile Twig templates using Parcel.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/myeti/parcel-plugin-twig.git"
   },
-  "license": "ISC",
   "homepage": "https://github.com/myeti/parcel-plugin-twig#readme"
 }
