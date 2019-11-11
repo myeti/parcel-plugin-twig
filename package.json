@@ -1,20 +1,20 @@
 {
   "name": "@myeti/parcel-plugin-twig",
   "author": "myeti",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
-  "devDependencies": {
+  "dependencies": {
     "parcel-bundler": "^1.12.4",
     "twig": "^1.13.3"
   },
-  "description": "Compile Twig template using Parcel.",
+  "description": "Compile Twig templates using Parcel.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myeti/parcel-plugin-twigjs.git"
+    "url": "git+https://github.com/myeti/parcel-plugin-twig.git"
   },
   "license": "ISC",
-  "homepage": "https://github.com/myeti/parcel-plugin-twigjs#readme"
+  "homepage": "https://github.com/myeti/parcel-plugin-twig#readme"
 }
